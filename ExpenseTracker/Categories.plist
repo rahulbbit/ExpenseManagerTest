@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>imageName</key>
+		<string>Add Shopping Cart-80</string>
+		<key>title</key>
+		<string>Shopping Cart</string>
+		<key>hexColorValue</key>
+		<string>#48b1bf</string>
+	</dict>
+	<dict>
+		<key>imageName</key>
+		<string>Barbershop-96</string>
+		<key>title</key>
+		<string>Saloon</string>
+		<key>hexColorValue</key>
+		<string>#F7971E</string>
+	</dict>
+	<dict>
+		<key>imageName</key>
+		<string>Books Filled-100</string>
+		<key>title</key>
+		<string>Books</string>
+		<key>hexColorValue</key>
+		<string>#F7971E</string>
+	</dict>
+	<dict>
+		<key>imageName</key>
+		<string>Clothes-96</string>
+		<key>title</key>
+		<string>Shopping</string>
+		<key>hexColorValue</key>
+		<string>#FFD200</string>
+	</dict>
+	<dict>
+		<key>imageName</key>
+		<string>Coffee to Go-96</string>
+		<key>title</key>
+		<string>Coffee</string>
+		<key>hexColorValue</key>
+		<string>#FFD200</string>
+	</dict>
+    <dict>
+        <key>imageName</key>
+        <string>Ticket-100</string>
+        <key>title</key>
+        <string>Movies</string>
+        <key>hexColorValue</key>
+        <string>#FFD200</string>
+    </dict>
+    <dict>
+        <key>imageName</key>
+        <string>Travelling-120</string>
+        <key>title</key>
+        <string>Travelling</string>
+        <key>hexColorValue</key>
+        <string>#FFD200</string>
+    </dict>
+</array>
+</plist>
